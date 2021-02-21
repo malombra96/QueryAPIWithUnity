@@ -1,4 +1,6 @@
-### QueryAPIWithUnity
+
+
+<h1 align="center">QueryAPIWithUnity</h1>
 
 <p align="center">
   <a href="https://unity.com/es" target="_blank">
@@ -14,3 +16,9 @@
 En este proyecto logramos traer datos desde la API de https://pokeapi.co, está no entre una JSON con el cual interactuar dentro de Unity3D. 
 Interactuamos eligiendo un pokemos al azar y obtenermos su nombre, el numero, sus tipos, para mostrar en pantalla además, mostramos una textura 
 con la imagen del pokemon.
+
+<p align="center">
+    <img src="Assets/Images/Captura1.PNG" alt="Unity" width="200">
+    <img src="Assets/Images/Captura2.PNG" alt="PokéAPI" width="200">
+    <img src="Assets/Images/Captura3.PNG" alt="PokéAPI" width="200">
+</p>
